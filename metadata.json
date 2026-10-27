@@ -1,0 +1,6 @@
+{
+  "name": "Shaheen Store",
+  "description": "Modern mobile e-commerce storefront for Pakistan with WhatsApp direct ordering, PKR pricing, Cash on Delivery, English and Urdu bilingual toggle, and store customizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
